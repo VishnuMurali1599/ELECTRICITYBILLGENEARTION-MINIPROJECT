@@ -1,0 +1,12 @@
+2023-06-25 11:33:08,757 User are  going to enter Tarrif Detais INFO root
+2023-06-25 11:33:15,836 User Entered the tariif details lt1 INFO root
+2023-06-25 11:33:15,836 The entered user details is converting into Alphanumeric INFO root
+2023-06-25 11:33:15,837 The entered details is converted into alphanumeric lt1 INFO root
+2023-06-25 11:33:15,837 Alphanumeric value will be converted to Uppercase INFO root
+2023-06-25 11:33:15,837 The upper case value is LT1 INFO root
+2023-06-25 11:33:15,838 Now the uppercase value will be used as Tariff Details INFO root
+2023-06-25 11:33:15,838 The output tariff details will beLT1 INFO root
+2023-06-25 11:33:17,722 The Kw entered by user is 1.0 INFO root
+2023-06-25 11:33:24,705 The Units entered by user is 81.0  INFO root
+2023-06-25 11:33:24,705 Entering into the Tariff LT21 INFO root
+2023-06-25 11:33:24,706 The total bill amount is :778.75 INFO root
